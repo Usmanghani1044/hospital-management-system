@@ -10,8 +10,8 @@ This is an educational portfolio application with fictional data. It is not a cl
 
 Requires Python 3.9+ with SQLite 3.31+ and a modern browser. No third-party Python packages, npm installation, MySQL server or internet connection are needed for the dashboard.
 
-1. 1. Click the green Code button on the repository page, choose Download ZIP, and extract the downloaded file.
-2. 2. Open the extracted folder containing main.py in VS Code.
+1. Click the green Code button on the repository page, choose Download ZIP, and extract the downloaded file.
+2. Open the extracted folder containing main.py in VS Code.
 3. Open **Terminal → New Terminal**.
 4. Run:
 
