@@ -1,0 +1,2 @@
+# No third-party packages are needed for the application or tests.
+# Requires Python 3.9+ with SQLite 3.31+ (generated-column support).
